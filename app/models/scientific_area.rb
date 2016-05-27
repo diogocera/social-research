@@ -1,0 +1,2 @@
+class ScientificArea < ApplicationRecord
+end

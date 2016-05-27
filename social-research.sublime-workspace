@@ -224,10 +224,18 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "app/assets/javascripts/react/ResearchUnitIndex.js.coffee",
 			"settings":
 			{
-				"buffer_size": 748,
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/research_units_controller.rb",
+			"settings":
+			{
+				"buffer_size": 112,
 				"line_ending": "Unix"
 			}
 		},
@@ -235,31 +243,82 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 1700,
+				"buffer_size": 1803,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "config/database.yml",
+			"file": "app/assets/javascripts/application.js",
 			"settings":
 			{
-				"buffer_size": 628,
+				"buffer_size": 824,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/tasks/build.rake",
+			"file": "db/seeds.rb",
 			"settings":
 			{
-				"buffer_size": 224,
+				"buffer_size": 1316,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "db/create_user.sql",
+			"file": "db/migrate/20160527180630_create_channel_types.rb",
 			"settings":
 			{
-				"buffer_size": 51,
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20160527172417_create_countries.rb",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20160527180700_create_channels.rb",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20160527192800_create_research_units.rb",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/20160527172431_create_cities.rb",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/serializers/research_unit_serializer.rb",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<%= react_component(\n	'ResearchUnitIndex', \n	render(json: @research_units)) %>",
+			"file": "app/views/research_units/index.html.erb",
+			"file_size": 74,
+			"file_write_time": 131088471420000000,
+			"settings":
+			{
+				"buffer_size": 78,
 				"line_ending": "Unix"
 			}
 		}
@@ -278,6 +337,14 @@
 			[
 				"ru",
 				"BeautifyRuby"
+			],
+			[
+				"ry",
+				"BeautifyRuby"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript (Rails)"
 			],
 			[
 				"ruby",
@@ -404,7 +471,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 530.0
+		"width": 420.0
 	},
 	"console":
 	{
@@ -427,14 +494,32 @@
 	"expanded_folders":
 	[
 		"/Users/diogocera/Projects/social-research",
-		"/Users/diogocera/Projects/social-research/config/initializers",
-		"/Users/diogocera/Projects/social-research/config/locales",
+		"/Users/diogocera/Projects/social-research/app",
+		"/Users/diogocera/Projects/social-research/app/assets",
+		"/Users/diogocera/Projects/social-research/app/assets/config",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/components",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/react",
+		"/Users/diogocera/Projects/social-research/app/views",
+		"/Users/diogocera/Projects/social-research/app/views/research_units",
 		"/Users/diogocera/Projects/social-research/db",
-		"/Users/diogocera/Projects/social-research/lib",
-		"/Users/diogocera/Projects/social-research/lib/tasks"
+		"/Users/diogocera/Projects/social-research/db/migrate"
 	],
 	"file_history":
 	[
+		"/Users/diogocera/Projects/social-research/db/create_user.sql",
+		"/Users/diogocera/Projects/social-research/lib/tasks/build.rake",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/components.js",
+		"/Users/diogocera/Projects/social-research/.gitignore",
+		"/Users/diogocera/Projects/social-research/Gemfile",
+		"/Users/diogocera/Projects/social-research/config/database.yml",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/application.js",
+		"/Users/diogocera/Projects/social-research/db/migrate/20160527172600_create_research_units.rb",
+		"/Users/diogocera/Projects/social-research/config/routes.rb",
+		"/Users/diogocera/Projects/social-research/app/controllers/research_units_controller.rb",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/react",
+		"/Users/diogocera/Projects/social-research/app/assets/javascripts/react/research-unit-index.js.coffee",
+		"/Users/diogocera/Projects/social-research/app/views/research_units/index.html.erb",
 		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/lecture_report.rb",
 		"/Users/diogocera/AcademiaDeCodigo/blanc-models/lib/blanc_models/version.rb",
 		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20151210143917_devise_create_users.rb",
@@ -549,20 +634,7 @@
 		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/lecture-timeline.html",
 		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/buttons.css",
 		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/topbar/topbar.html",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.html",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/class-list.html",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/lecture-timeline.css",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-models/lecture.service.js",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-common/current-resource.service.js",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/loading.css",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/sign-in/authentication.service.js",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/invitation/invitation.service.js",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/invitation/invitation.html",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/loading/loading.html",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/common/api-enpoints.service.js",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/endpoints.json",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/classes.css",
-		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-models/lecture-summary.service.js"
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.html"
 	],
 	"find":
 	{
@@ -588,6 +660,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Funding",
 			"default_scope",
 			"last_transition",
 			"status",
@@ -714,8 +787,7 @@
 			"md-bu",
 			"topba",
 			"timeline",
-			"currentResourceService",
-			"currentLectureService"
+			"currentResourceService"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -809,24 +881,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 11,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "app/assets/javascripts/react/ResearchUnitIndex.js.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 748,
+						"buffer_size": 214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								748,
-								748
+								214,
+								214
 							]
 						],
 						"settings":
@@ -834,7 +906,135 @@
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_thread_running": true,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Rails/JavaScript (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/research_units_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "db/seeds.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1175,
+								1175
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": null,
+							"translate_tabs_to_spaces": null
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -844,20 +1044,82 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "Gemfile",
+					"buffer": 5,
+					"file": "db/migrate/20160527180630_create_channel_types.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1700,
+						"buffer_size": 167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								144,
-								144
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "db/migrate/20160527172417_create_countries.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "db/migrate/20160527180700_create_channels.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								152
 							]
 						],
 						"settings":
@@ -875,20 +1137,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "config/database.yml",
+					"buffer": 8,
+					"file": "db/migrate/20160527192800_create_research_units.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 628,
+						"buffer_size": 319,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								627,
-								627
+								145,
+								163
 							]
 						],
 						"settings":
@@ -896,7 +1158,7 @@
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_thread_running": true,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -904,24 +1166,55 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "lib/tasks/build.rake",
+					"buffer": 9,
+					"file": "db/migrate/20160527172431_create_cities.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 224,
+						"buffer_size": 182,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								224,
-								224
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/serializers/research_unit_serializer.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
 							]
 						],
 						"settings":
@@ -936,32 +1229,32 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "db/create_user.sql",
+					"buffer": 11,
+					"file": "app/views/research_units/index.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 51,
+						"buffer_size": 78,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								51,
-								51
+								78,
+								78
 							]
 						],
 						"settings":
 						{
 							"encoding_helper_encoding": "UTF-8",
 							"encoding_thread_running": true,
-							"open_with_edit": true,
-							"syntax": "Packages/SQL/SQL.sublime-syntax"
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

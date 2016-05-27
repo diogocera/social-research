@@ -1,0 +1,2 @@
+class ChannelType < ApplicationRecord
+end
