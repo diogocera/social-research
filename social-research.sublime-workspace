@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acompl",
+				"accomplished"
+			],
+			[
+				"delet",
+				"delegate"
+			],
+			[
+				"current",
+				"current_state"
+			],
+			[
+				"curren",
+				"current_resource_id"
+			],
+			[
+				"zoom",
+				"zoomOptions"
+			],
+			[
+				"curre",
+				"currentLectureService"
+			],
+			[
+				"gte",
+				"getLecture"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"le",
+				"lectureSummary"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"content",
+				"align-content"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"md",
+				"md-icon"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"with",
+				"max-width"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"cu",
+				"currentLecture"
+			],
+			[
+				"stud",
+				"student_params"
+			],
+			[
+				"ng",
+				"ngfactory	angular.factory"
+			],
+			[
+				"m",
+				"md-list"
+			],
+			[
+				"stats",
+				"status_code"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"root",
+				"root_look"
+			],
+			[
+				"recommede",
+				"recommended_searches"
+			],
+			[
+				"price",
+				"price_tiers"
+			],
+			[
+				"sea",
+				"search_price_tiers"
+			],
+			[
+				"lea",
+				"Leaderboard"
+			],
+			[
+				"include",
+				"include_images"
+			],
+			[
+				"publ",
+				"published_at"
+			],
+			[
+				"push",
+				"push_notification_channel"
+			],
+			[
+				"get_t",
+				"get_the_look_looks"
+			],
+			[
+				"main",
+				"main_text"
+			],
+			[
+				"first",
+				"first_facebook_link"
+			],
+			[
+				"hi",
+				"hierarquies_v2"
+			],
+			[
+				"Pers",
+				"PersonalizedLooksService"
+			],
+			[
+				"Perso",
+				"personalized_looks_service"
+			],
+			[
+				"perso_",
+				"personalized_looks"
+			],
+			[
+				"sta",
+				"start_index"
+			],
+			[
+				"active",
+				"active_users"
+			],
+			[
+				"si",
+				"similar_looks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/tasks/build.rake",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/create_user.sql",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ru",
+		"selected_items":
+		[
+			[
+				"ru",
+				"BeautifyRuby"
+			],
+			[
+				"ruby",
+				"BeautifyRuby"
+			],
+			[
+				"b",
+				"BeautifyRuby"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"j",
+				"Javascript Beautify"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"hr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"angular",
+				"Snippet: angular.service"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PRETTY",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"PRET",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/diogocera/Projects/social-research",
+		"/Users/diogocera/Projects/social-research/config/initializers",
+		"/Users/diogocera/Projects/social-research/config/locales",
+		"/Users/diogocera/Projects/social-research/db",
+		"/Users/diogocera/Projects/social-research/lib",
+		"/Users/diogocera/Projects/social-research/lib/tasks"
+	],
+	"file_history":
+	[
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/lecture_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/lib/blanc_models/version.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20151210143917_devise_create_users.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160523134536_create_student_piggybacks.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/student_piggyback.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/user.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160516150857_create_avatars.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/concerns/statusable.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/klass.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/lecture_report_state_machine.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160508115212_create_resource_classification.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/resource_classification.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160429170632_create_helps.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/help.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/resource.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160225121512_create_slides.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/exercise_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/exercise_report_state_machine.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160111192903_create_resources.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160308143913_create_exercise_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160308130849_create_lecture_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/summaries/lecture_summary.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160425201325_create_exercise_summaries.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160425194854_create_lecture_summaries.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/summaries/exercise_summary.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/lecture.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/concerns/report_statusable.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160427095714_create_lecture_summay_attending_students.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/relationships/lecture_summary_attending_student.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/relationships/exercise_summary_successful_student.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/relationships/exercise_summary_trying_student.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/relationships/lecture_summary_present_student.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/lib/blanc_models/engine.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160427095714_create_lecture_summay_present_students.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160427095620_create_exercise_summary_trying_students.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160427095640_create_exercise_summary_successful_students.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/lecture_report_transition.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/curriculum.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/exercise_report_transition.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160321142457_create_exercise_report_transitions.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160318182741_create_lecture_report_transitions.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/exercise.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/.gitignore",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160324154740_create_exercise_reports.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/resource_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/resource_report_state_machine.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/report/resource_report_transition.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160308143913_create_resource_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160321142457_create_resource_report_transitions.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/test/dummy/db/schema.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/test/dummy/log/development.log",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/app/models/exercise_report.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/blanc_models.gemspec",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/migrate/20160111192857_create_exercises.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/db/schema.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/untitled",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/test/dummy/config/database.yml",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/config/database.yml",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/Gemfile",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-models/lib/blanc_models/statesman.rb",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/build/js/libs.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/gulp/tasks/assets.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/node_modules/exercise-clockly-seconds/node_modules/exercise-core/index.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/sign-in/sign-in.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/node_modules/exercise-clockly-seconds/node_modules/exercise-core/lib/blockly/blocks_compressed.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-exercise.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-common/exercise-manager.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/node_modules/exercise-clockly-seconds/node_modules/exercise-core/lib/blockly/blockly_compressed.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/node_modules/exercise-clockly-seconds/node_modules/exercise-core/core/managers/index.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-exercise.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-timeline.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/resource-timeline.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/package.json",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-image.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/animations.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/lecture-timeline.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/class-detail.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-video.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/resources/resource.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-video.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-image.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.config.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/resources/resource.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/lectures/lecture-detail.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/lectures/lecture-detail.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/class-detail.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-timeline.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-common/current-lecture.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.services.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/create-update/class-create-update.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/lectures.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-slidedeck.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/class-list.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.directives.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-common/current-klass.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/topbar/topbar.controller.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/index.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/lib/ImpressJS/impress.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/resource.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/blanc.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resources/resource-slidedeck.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/blanc.app.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.module.js",
+		"/Users/diogocera/Projects/impress.js/js/impress.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resource-timeline.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/resource-timeline.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.controllers.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/slideshow.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/create-update/class-create-update.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/slideshow.directive.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/slideshow.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/directives/lecture-timeline.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/buttons.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/topbar/topbar.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/main.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/classes/class-list.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/lecture-timeline.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-models/lecture.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-common/current-resource.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/loading.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/sign-in/authentication.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/invitation/invitation.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/login/invitation/invitation.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/loading/loading.html",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/common/api-enpoints.service.js",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/endpoints.json",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/assets/css/classes.css",
+		"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src/app/modules/main/services-models/lecture-summary.service.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/",
+			"/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src",
+			"<open folders>,/Users/diogocera/AcademiaDeCodigo/blanc-webapp/src",
+			"<open folders>",
+			"/Users/diogocera/Gleam/gleam-backend/db",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"default_scope",
+			"last_transition",
+			"status",
+			"next_lecture_report",
+			"lecture_reports",
+			"current_lecture_report",
+			"self[:status]",
+			"invitation_created_at",
+			"STATUSES",
+			"importBlocks",
+			"total_elapsed_time",
+			"type",
+			"ReportStatusable",
+			"on_going?",
+			"is_on_going_state",
+			"unique",
+			"last_transition",
+			"state_machine",
+			"state_ma",
+			"already_shown_resource_ids",
+			"summary",
+			"on_exercise_mode",
+			"on_lecture_mode",
+			"on_goin",
+			"on_going",
+			":on_going",
+			"scope :already_shown_resource_ids",
+			"scope :  already_shown_resource_ids",
+			"already_shown_resource_ids",
+			"only",
+			"]",
+			":",
+			"elapsed_time",
+			"const",
+			"resource",
+			"resource_is_part_of_lecture",
+			"resource_report",
+			"ResourceReport",
+			"status",
+			"Lecture",
+			"lecture",
+			"Lecture",
+			"actable_id",
+			"ended",
+			" )",
+			"  ",
+			"order_transitions",
+			"sqli",
+			"sqlite",
+			"sqlie",
+			"phaserMan",
+			"phaser",
+			"workspacesvg.prototype.startd",
+			"startDrag",
+			"WorkspaceSVG.prototype.onMouseDow",
+			"Workspace.prototype.onMouseDow",
+			"prototype.onMouseDow",
+			"WorkspaceSvg.prototype.pas",
+			"prototype.setParent",
+			"\"transform\"",
+			"transform",
+			"'transform'",
+			"getSvgXY_",
+			"scale=1",
+			"scale=1;",
+			"var scale=1;",
+			"return metri",
+			"this.getCanvas().getBBox()",
+			"blockBox=this.getCanvas().getBBox()",
+			"var blockBox=this.getCanvas().getBBox()",
+			"prototype.resizeBubble_",
+			"translate(",
+			"'translate('",
+			"'translate('+this",
+			"'translate(' + this",
+			"Blockly.WorkspaceSvg.prototype.scale=1;",
+			"prototype.createDom",
+			"createD",
+			"this.scale=1",
+			"this.scale = 1",
+			"updateGridPattern_",
+			"this.getMetrics",
+			"Blockly.WorkspaceSvg.superClass_.constructor.call(this, options);",
+			"zoomOptions.start",
+			"zoomOptions",
+			"zoom",
+			"(PhaserManager.prototype",
+			"selectResource",
+			"view-frame",
+			"view-conten",
+			"setResource",
+			"selected",
+			"selectedLecture",
+			"currentlectureService",
+			"currentklassService",
+			".5s",
+			".5",
+			"data-x=\"0\"",
+			"data-y",
+			"step",
+			"2s",
+			"2",
+			".2",
+			"roots",
+			"init",
+			"init(",
+			"init()",
+			"canvas",
+			"init",
+			"ignore",
+			"</q>",
+			"<q>",
+			"window.location",
+			"window",
+			"window.location",
+			"config.lib",
+			"slide_in_from_right",
+			"createclass",
+			"X",
+			"slide_in_from_right",
+			"max-width: 1200px;",
+			"margin: 0 a",
+			"topba",
+			"md-bu",
+			"topba",
+			"timeline",
+			"currentResourceService",
+			"currentLectureService"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"on_going_exercise",
+			"on_going_lecture",
+			"exercise_is_part_of_lecture",
+			"exercise_report",
+			"ExerciseReport",
+			"finished",
+			"currentLectureService",
+			"currentKlassService",
+			"data-y=\"0\"",
+			"data-x",
+			"10s",
+			"10",
+			"2",
+			"main.classes-detail",
+			"main.classes.createupdate",
+			"ClassValidationService",
+			"CurrentResourceService",
+			"CurrentLectureService",
+			"CurrentKlassService",
+			"ClassValidationService",
+			"lecture",
+			"/detail",
+			"classes.detail",
+			"schode",
+			"blanc",
+			"Blanc",
+			"'",
+			"  ",
+			"col",
+			"my col",
+			"col",
+			"",
+			"  },\n\n______________________\n  \n  {",
+			"0\n  },\n\n  ",
+			":0},\n\n",
+			":0}\n\n\n\n",
+			"tailoring\n",
+			"\n______________________________________________________________\n\n",
+			"},\n\n\n  {\n\n",
+			",\n\n\n",
+			"\n\n\n\n",
+			"\n",
+			"||||||\n",
+			"};\n",
+			";",
+			"|",
+			";",
+			"},\n",
+			"draw_4",
+			"draw_3",
+			"draw_2",
+			"draw_1",
+			"",
+			")\n",
+			")",
+			", region_id:",
+			"\nFeedsRegion.create(",
+			"FeedsRegion.create(",
+			"",
+			"P",
+			"B",
+			"E",
+			"T",
+			"",
+			"searches_board",
+			"top_searches",
+			"\\\"",
+			"\"",
+			":",
+			"user",
+			"@user",
+			"redis",
+			"@region_id",
+			"@root_look",
+			"",
+			"$redis"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								748,
+								748
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/tasks/build.rake",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "db/create_user.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"open_with_edit": true,
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "social-research.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"src/app/index.html"
+			],
+			[
+				"blanc.css",
+				"src/assets/css/blanc.css"
+			],
+			[
+				"blan",
+				"src/app/blanc.config.js"
+			],
+			[
+				"blanc",
+				"build/assets/css/blanc.css"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"look.rb",
+				"app/models/look.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/AcademiaDeCodigo/blanc-api/blan-api.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 755.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 425.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
